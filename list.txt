@@ -40,6 +40,8 @@
 ||appmetrica.yandex.ru^
 ||adfstat.yandex.ru^
 ||metrika.yandex.ru^
+||adfox.yandex.ru^
+||appmetrica.yandex.ru^
 ||advertising.yandex.ru^
 ||offerwall.yandex.net^
 ||business-api.tiktok.com^
