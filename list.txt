@@ -102,3 +102,4 @@
 ||claritybt.freshmarketer.com^
 ||fwtracks.freshmarketer.com^
 ||stats.wp.com^
+||samsungads.com^
