@@ -103,3 +103,4 @@
 ||fwtracks.freshmarketer.com^
 ||stats.wp.com^
 ||samsungads.com^
+||afs.googlesyndication.com^
