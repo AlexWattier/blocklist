@@ -115,3 +115,8 @@
 ||adserver.unityads.unity3d.com^
 ||webview.unityads.unity3d.com^
 ||config.unityads.unity3d.com^
+||events.reddit.com^
+||log.pinterest.com^
+||static.ads-twitter.com^
+||app.getsentry.com^
+||browser.sentry-cdn.com^
