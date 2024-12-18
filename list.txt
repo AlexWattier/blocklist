@@ -104,3 +104,12 @@
 ||stats.wp.com^
 ||samsungads.com^
 ||afs.googlesyndication.com^
+||logbak.hicloud.com^
+||logservice.hicloud.com^
+||grs.hicloud.com^
+||data.ads.oppomobile.com^
+||adx.ads.oppomobile.com^
+||data.mistat.xiaomi.com^
+||adserver.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
