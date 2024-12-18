@@ -124,4 +124,6 @@
 ||adc3-launch.adcolony.com^
 ||events3alt.adcolony.com^
 ||wd.adcolony.com^
-||^
+||mouseflow.com^
+||o2.mouseflow.com^
+||tools.mouseflow.com^
